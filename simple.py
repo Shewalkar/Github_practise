@@ -1,11 +1,6 @@
-print("i am Vikas Kumar 1")
 print("i am Vikas Kumar 2")
-print("i am Vikas Kumar 3")
 print("i am Vikas Kumar 4")
-print("i am Vikas Kumar 5")
 print("I am Bhausaheb 1")
-print("I am Bhausaheb 2")
 print("I am Bhausaheb 3")
-print("I am Bhausaheb 4")
 print("I am Bhausaheb 5")
 
