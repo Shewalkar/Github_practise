@@ -1,4 +1,3 @@
-print("it is a blank notebook")
 print("I am Bhausaheb 1")
 print("I am Bhausaheb 2")
 print("I am Bhausaheb 3")
